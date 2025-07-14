@@ -52,3 +52,6 @@ Si te interesa contribuir a este proyecto o usarlo independiente, considera:
 
 ## Licencia 📜
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE (si aplica) para más detalles.
+
+
+[English Version](README.en.md)
